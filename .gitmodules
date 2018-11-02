@@ -1,3 +1,6 @@
 [submodule "Alumni"]
 	path = Alumni
 	url = https://github.com/GibbonEdu/module-alumni.git
+[submodule "Badges"]
+	path = Badges
+	url = https://github.com/GibbonEdu/module-badges.git
