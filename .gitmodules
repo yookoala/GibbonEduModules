@@ -10,3 +10,6 @@
 [submodule "Data Admin"]
 	path = Data Admin
 	url = https://github.com/SKuipers/module-dataAdmin.git
+[submodule "Feed"]
+	path = Feed
+	url = https://github.com/GibbonEdu/module-feed.git
