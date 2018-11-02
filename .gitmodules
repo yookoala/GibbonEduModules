@@ -22,3 +22,6 @@
 [submodule "Higher Education"]
 	path = Higher Education
 	url = https://github.com/GibbonEdu/module-higherEducation.git
+[submodule "House Points"]
+	path = House Points
+	url = https://github.com/SKuipers/gibbon-house-points.git
