@@ -1,0 +1,3 @@
+[submodule "Alumni"]
+	path = Alumni
+	url = https://github.com/GibbonEdu/module-alumni.git
