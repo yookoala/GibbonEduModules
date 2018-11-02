@@ -13,3 +13,6 @@
 [submodule "Feed"]
 	path = Feed
 	url = https://github.com/GibbonEdu/module-feed.git
+[submodule "Free Learning"]
+	path = Free Learning
+	url = https://github.com/GibbonEdu/module-freeLearning.git
