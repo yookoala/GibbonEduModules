@@ -34,3 +34,6 @@
 [submodule "Moodle"]
 	path = Moodle
 	url = https://github.com/GibbonEdu/module-moodle.git
+[submodule "Policies"]
+	path = Policies
+	url = https://github.com/GibbonEdu/module-policies.git
