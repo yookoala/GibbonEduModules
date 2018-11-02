@@ -37,3 +37,6 @@
 [submodule "Policies"]
 	path = Policies
 	url = https://github.com/GibbonEdu/module-policies.git
+[submodule "Query Builder"]
+	path = Query Builder
+	url = https://github.com/GibbonEdu/module-queryBuilder.git
