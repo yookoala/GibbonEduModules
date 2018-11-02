@@ -40,3 +40,6 @@
 [submodule "Query Builder"]
 	path = Query Builder
 	url = https://github.com/GibbonEdu/module-queryBuilder.git
+[submodule "Reporting"]
+	path = Reporting
+	url = https://github.com:yookoala/GibbonEduReporting.git
