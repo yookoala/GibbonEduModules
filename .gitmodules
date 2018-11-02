@@ -31,3 +31,6 @@
 [submodule "Meet The Teacher"]
 	path = Meet The Teacher
 	url = https://github.com/GibbonEdu/module-meetTheTeacher.git
+[submodule "Moodle"]
+	path = Moodle
+	url = https://github.com/GibbonEdu/module-moodle.git
