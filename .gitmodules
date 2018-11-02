@@ -25,3 +25,6 @@
 [submodule "House Points"]
 	path = House Points
 	url = https://github.com/SKuipers/gibbon-house-points.git
+[submodule "Info Grid"]
+	path = Info Grid
+	url = https://github.com/GibbonEdu/module-infoGrid.git
