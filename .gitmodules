@@ -28,3 +28,6 @@
 [submodule "Info Grid"]
 	path = Info Grid
 	url = https://github.com/GibbonEdu/module-infoGrid.git
+[submodule "Meet The Teacher"]
+	path = Meet The Teacher
+	url = https://github.com/GibbonEdu/module-meetTheTeacher.git
