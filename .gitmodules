@@ -7,3 +7,6 @@
 [submodule "Credentials"]
 	path = Credentials
 	url = https://github.com/GibbonEdu/module-credentials.git
+[submodule "Data Admin"]
+	path = Data Admin
+	url = https://github.com/SKuipers/module-dataAdmin.git
