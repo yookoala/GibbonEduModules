@@ -4,3 +4,6 @@
 [submodule "Badges"]
 	path = Badges
 	url = https://github.com/GibbonEdu/module-badges.git
+[submodule "Credentials"]
+	path = Credentials
+	url = https://github.com/GibbonEdu/module-credentials.git
