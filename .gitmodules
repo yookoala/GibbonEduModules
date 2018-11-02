@@ -16,3 +16,6 @@
 [submodule "Free Learning"]
 	path = Free Learning
 	url = https://github.com/GibbonEdu/module-freeLearning.git
+[submodule "Help Desk"]
+	path = Help Desk
+	url = https://github.com/raynichc/helpdesk.git
