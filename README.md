@@ -27,4 +27,4 @@ repository. So we'd use unofficial mirror repositories for them.
 * [Data Admin](https://github.com/SKuipers/module-dataAdmin)
 * [Help Desk](https://github.com/raynichc/helpdesk)
 * [House Points](https://github.com/SKuipers/gibbon-house-points) (unofficial mirror)
-* [Reporting](https://github.com:yookoala/GibbonEduReporting) (unofficial mirror)
+* [Reporting](https://github.com/yookoala/GibbonEduReporting) (unofficial mirror)
