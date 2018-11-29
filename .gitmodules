@@ -46,3 +46,6 @@
 [submodule "ATL"]
 	path = ATL
 	url = https://github.com/GibbonEdu/module-ATL.git
+[submodule "Trip Planner"]
+	path = Trip Planner
+	url = https://github.com/raynichc/Trip-Planner.git
