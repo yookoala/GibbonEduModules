@@ -7,6 +7,7 @@ of these modules can be found in the
 
 ## List of Official Modules
 
+* [ATL](https://github.com/GibbonEdu/module-ATL)
 * [Alumni](https://github.com/GibbonEdu/module-alumni)
 * [Badges](https://github.com/GibbonEdu/module-badges)
 * [Credentials](https://github.com/GibbonEdu/module-credentials)

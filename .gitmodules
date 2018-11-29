@@ -43,3 +43,6 @@
 [submodule "Reporting"]
 	path = Reporting
 	url = https://github.com:yookoala/GibbonEduReporting.git
+[submodule "ATL"]
+	path = ATL
+	url = https://github.com/GibbonEdu/module-ATL.git
